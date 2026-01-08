@@ -1,6 +1,6 @@
 # NovaStar MX (COEX) – SIMPL+ Module
 
-### Version 2.17  
+### Version 2.20  
 **Author:** SAOA Consulting 
 **Module Type:** SIMPL+ / SIMPL# Library  
 **Target Platform:** Crestron 4-Series Processor  
@@ -88,6 +88,7 @@ Example workflow in SIMPL:
 
 | Version | Date | Changes |
 |----------|------|----------|
+| 2.20 | 2026-01-08 | Stability improvements, automatic recovery handling, and improved long-runtime reliability |
 | 2.17 | 2025-11-04 | Initial public release |
 
 ---
